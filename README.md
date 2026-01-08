@@ -18,10 +18,7 @@ A bridge module that seamlessly connects **Goody's DSA4.1 Core** (gdsa) system w
 
 ## 🚀 Installation
 
-1. Download the latest release from the [Releases](../../releases) page
-2. Extract the ZIP file to your `FoundryVTT/Data/modules/` directory
-3. Restart FoundryVTT
-4. Enable the module in your world's module settings
+- **Manifest URL**: `https://github.com/GeanoFee/geanos-gdsa-polyglot-bridge/releases/latest/download/module.json`
 
 ## 🎮 Usage
 
