@@ -1,0 +1,16 @@
+{
+  "dsa-polyglot-bridge": {
+    "title": "DSA 4.1 Polyglot Bridge",
+    "description": "Bridge module to connect DSA 4.1 language system with Polyglot",
+    "settings": {
+      "debug": {
+        "name": "Debug Mode",
+        "hint": "Enable debug logging for DSA Polyglot Bridge"
+      }
+    },
+    "notifications": {
+      "registered": "DSA 4.1 language system successfully connected to Polyglot",
+      "error": "Failed to connect DSA 4.1 system to Polyglot"
+    }
+  }
+}
