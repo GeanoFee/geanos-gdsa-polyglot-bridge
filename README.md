@@ -24,7 +24,7 @@ A bridge module that seamlessly connects **Goody's DSA4.1 Core** (gdsa) system w
 
 ## 🎮 Usage
 
-1. **Enable Modules**: Activate both Polyglot and GDSA Polyglot Bridge in your world
+1. **Enable Modules**: Activate both Polyglot and Geano's GDSA Polyglot Bridge in your world
 2. **Automatic Detection**: Your GDSA characters will be automatically recognized
 3. **Use Polyglot**: Use Polyglot's chat features as normal
 4. **Language Recognition**: The system automatically detects which languages your character knows
