@@ -1,4 +1,4 @@
-# GDSA Polyglot Bridge
+# Geano's GDSA Polyglot Bridge
 
 A bridge module that seamlessly connects **Goody's DSA4.1 Core** (gdsa) system with the **Polyglot** module in FoundryVTT, enabling automatic language detection and multilingual chat functionality.
 
