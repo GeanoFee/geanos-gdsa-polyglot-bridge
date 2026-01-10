@@ -39,5 +39,6 @@ Hooks.once("polyglot.init", (LanguageProvider) => {
             return [known_languages, literate_languages];
         }
     }
-    game.polyglot.api.registerModule("dsa-polyglot-bridge", FictionalGameSystemLanguageProvider);
+    game.polyglot.api.registerModule("geanos-gdsa-polyglot-bridge", FictionalGameSystemLanguageProvider);
+
 })
