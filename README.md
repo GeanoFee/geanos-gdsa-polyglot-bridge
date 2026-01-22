@@ -34,5 +34,5 @@ A bridge module that seamlessly connects **Goody's DSA4.1 Core** (gdsa) system w
 Special thanks to [@mclemente](https://github.com/mclemente) for the technical guidance and code assistance that made this perfect integration achievable!
 
 ---
-
-**Made with ❤️ for the GDSA and FoundryVTT communities**
+## License
+This module is licensed under the [MIT License](LICENSE).
