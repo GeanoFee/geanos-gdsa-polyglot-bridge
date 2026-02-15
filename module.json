@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "12"
+    "verified": "13"
   },
   "authors": [
     {
@@ -39,6 +39,6 @@
     }
   ],
   "url": "https://github.com/GeanoFee/geanos-gdsa-polyglot-bridge",
-  "manifest": "https://github.com/GeanoFee/geanos-gdsa-polyglot-bridge/releases/latest/download/module.json",
-  "download": "https://github.com/GeanoFee/geanos-gdsa-polyglot-bridge/releases/latest/download/module.zip"
+  "manifest": "https://github.com/GeanoFee/geanos-gdsa-polyglot-bridge/releases/download/v1.0.0/module.json",
+  "download": "https://github.com/GeanoFee/geanos-gdsa-polyglot-bridge/releases/download/v1.0.0/module.zip"
 }
